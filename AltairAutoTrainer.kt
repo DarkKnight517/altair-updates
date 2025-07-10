@@ -1,7 +1,7 @@
 package com.sultan.altair.trainer
 
 import com.sultan.altair.core.AltairMemory
-import com.sultan.altair.network.GptApi
+import com.example.sultanarlite.network.GptApi
 
 object AltairAutoTrainer {
     fun trainOnce() {
